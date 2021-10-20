@@ -8,6 +8,7 @@ en el dashboard al guardarlo, por ende, hemos realizado dos capturas de pantalla
 Hemos hecho otra captura más con un filtro (S19_T01_Filtro_Mujer.pdf) para mostrar la interactividad de las gráficas.
 
 ====================================================================================================
+
 Enunciado:
 
 Nivell 1
